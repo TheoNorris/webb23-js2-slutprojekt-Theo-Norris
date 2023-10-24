@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Paytone+One&family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+
+:root {
+  --gassed-green: #00ff7a;
+  --gassed-purple: #7a00ff;
+  --gassed-orange: #ff7a00;
+}
+
+body {
+  background-color: black;
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+#navbar-container {
+  width: 100%;
+}
+
+#logo-image {
+  height: 40px;
+}
+
+#logo-image:hover {
+  transform: scale(1.1);
+}
+
+#brand-text {
+  font-family: "Paytone One", sans-serif;
+  font-size: 35px;
+  margin: 0 10px;
+}
+
+.flag-image {
+  height: 30px;
+  width: 40px;
+  margin: 10px 10px;
+}
+
+.cant-shop {
+  opacity: 50%;
+  font-size: 30px;
+  margin: 10px 5px;
+  color: white;
+}
+
+.user-basket-holder {
+  display: inherit;
+}
+
+#basket-holder {
+  position: relative;
+}
+
+.basket-quantity {
+  position: absolute;
+  top: 38%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+
+  padding: 3px;
+  color: black;
+}
+
+.user-shop {
+  font-size: 30px;
+  margin: 10px 5px;
+  color: white;
+}
+
+.user-shop:hover {
+  transform: scale(1.1);
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px;
+}
+
+#brand-div {
+  flex-direction: row;
+  display: flex;
+}
+
+#collections-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 25px;
+  text-decoration: none;
+  background-color: var(--gassed-orange);
+}
+
+.collection-links {
+  text-decoration: none;
+  color: var(--gassed-purple);
+  margin: 15px 0;
+}
+
+.collection-links:hover {
+  color: white;
+}
+
+h5 {
+  margin: 0;
+}
+
+.welcome-p {
+  text-align: center;
+  margin: 10px auto;
+}
+
+.hero-container {
+  width: 100vw;
+  position: relative;
+  padding-bottom: 20px;
+}
+
+.hero-image {
+  width: 100vw;
+}
+
+.hero-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  pointer-events: none; /* Ensure the overlay doesn't interfere with clicks */
+}
+
+.overlay-text {
+  position: absolute;
+  bottom: 20%;
+  left: 5%;
+  padding: 20px;
+  text-align: left;
+}
+
+.overlay-text p {
+  margin: 0;
+}
+
+.hero-header {
+  font-size: 35px;
+  color: var(--gassed-green);
+  margin: 10px 0;
+}
+
+.hero-button {
+  padding: 10px;
+  letter-spacing: 2px;
+  font-size: 15px;
+  margin: 15px 0;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+}
+
+.hero-button:hover {
+  border: 1px solid var(--gassed-orange);
+  box-shadow: 1px 1px 1px var(--gassed-orange);
+}
+
+.confirm-but {
+  margin-top: 30px;
+}
+
+#footer-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px;
+  color: var(--gassed-purple);
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+#footer-div a {
+  color: var(--gassed-purple);
+  margin: 5px;
+  color: white;
+  font-size: 18px;
+}
+
+#footer-div a:hover {
+  color: var(--gassed-green);
+}
+
+#footer-div h5 {
+  margin: 5px;
+  font-size: 15px;
+}
+
+#socials {
+  display: flex;
+  flex-direction: column;
+  color: var(--gassed-purple);
+}
