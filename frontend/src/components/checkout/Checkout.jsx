@@ -39,7 +39,6 @@ export function Checkout({ appBasketProducts, setAppBasketProducts }) {
     e.preventDefault();
 
     appBasketProducts.forEach((product) => {
-      console.log("products", product);
       patchProd(product);
     });
 

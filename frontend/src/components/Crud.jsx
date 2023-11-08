@@ -29,7 +29,7 @@ export async function patchProd(product) {
 
 export async function postNewCustomer(customerDetails) {
   const url =
-    "https://gassed-customers-default-rtdb.europe-west1.firebasedatabase.app/customer.json";
+    "https://gassed-api-practice-default-rtdb.europe-west1.firebasedatabase.app/customer.json";
 
   const options = {
     method: "POST",

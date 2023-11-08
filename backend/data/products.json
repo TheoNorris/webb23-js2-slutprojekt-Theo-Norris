@@ -1,1 +1,302 @@
-[{"id":1,"category":"clothing","name":"Urban Camo Cargo Pants","colour":"black","price":69,"description":"Camo cargo pants for an urban streetwear style.","image":"https://i.pinimg.com/564x/92/1e/93/921e93d7a9cf44af2c94cf79e263f91c.jpg","quantity":0},{"id":2,"category":"clothing","name":"Leather Biker Jacket","colour":"black","price":149,"description":"A classic leather biker jacket for an edgy look.","image":"https://static.zara.net/photos///2023/I/0/2/p/5833/412/800/2/w/1920/5833412800_2_1_1.jpg?ts=1691739359088","quantity":2},{"id":3,"category":"clothing","colour":"blue, grey","name":"Graphic Print Hoodie","price":59,"description":"A hoodie with unique graphic prints and a relaxed fit.","image":"https://www.shirtstore.se/pub_images/original/30297_gr_18967.jpg","quantity":8},{"id":4,"category":"clothing","name":"Sneakerhead T-shirt","colour":"white","price":29,"description":"A t-shirt for sneaker enthusiasts with trendy designs.","image":"https://www.tradeinn.com/f/13852/138523383/puma-kortarmad-t-shirt-sneaker-graphic.jpg","quantity":50},{"id":5,"category":"clothing","name":"Denim Street Shorts","colour":"blue","price":39,"description":"Shorts with a denim look, perfect for summer.","image":"https://cdn.yoursclothing.com/Images/ProductImages/Big/KAM_Dark_Blue_Cargo_Denim_Shorts_202683_e4ca.jpg","quantity":0},{"id":6,"category":"perfume","name":"Urban Explorer Cologne","colour":"none","price":49,"description":"A cologne for the adventurous urban explorer.","image":"https://www.sniffandwhiff.com/cdn/shop/files/NEWNBUnbrandedVII.webp?v=1691480488&width=500","quantity":25},{"id":7,"category":"perfume","name":"Mystic Woods Eau de Parfum","colour":"none","price":59,"description":"An Eau de Parfum with a mysterious and alluring scent.","image":"https://larivierefashion.com/wp-content/uploads/2022/01/ingredients-in-perfume.jpg","quantity":35},{"id":8,"category":"perfume","name":"Citrus Fresh Aftershave","colour":"none","price":29,"description":"A refreshing aftershave with zesty citrus notes.","image":"https://img.freepik.com/premium-photo/women-perfume-glass-bottle-advertising-promotional-mockup-product-packaging-rendering-closeup_327903-704841.jpg","quantity":30},{"id":9,"category":"perfume","name":"Woody Spice Eau de Toilette","colour":"none","price":69,"description":"An Eau de Toilette with a blend of woody and spicy accords.","image":"https://img.freepik.com/premium-photo/women-perfume-glass-bottle-advertising-promotional-mockup-product-packaging-rendering-closeup_327903-696319.jpg","quantity":60},{"id":10,"category":"perfume","name":"Fresh Ocean Breeze Cologne","colour":"none","price":39,"description":"A cologne with a revitalizing ocean breeze fragrance.","image":"https://static.vecteezy.com/system/resources/previews/027/673/772/non_2x/creative-and-brandless-perfume-bottle-and-flower-on-the-wooden-table-closeup-ai-generative-free-photo.jpeg","quantity":50},{"id":11,"category":"jewelry","name":"Stainless Steel Bracelet","colour":"none","price":49,"description":"A stainless steel bracelet with a modern and masculine design.","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhe9_pfvxgFia2g7OcPYwI269ThgO2mSyhjKxMYQsBzuT_saFRQu7_0NLlWYyZ_vUyy8&usqp=CAU","quantity":21},{"id":12,"category":"jewelry","name":"Black Leather Cuff","colour":"black","price":59,"description":"A black leather cuff with metal accents for a bold look.","image":"https://www.careofcarl.com/bilder/artiklar/zoom/11630211r_2.jpg?m=1684240600","quantity":30},{"id":13,"category":"jewelry","name":"Minimalist Steel Watch","colour":"none","price":89,"description":"A minimalist steel watch with a sleek and elegant design.","image":"https://images.fyndiq.se/images/f_auto/t_600x600/prod/b286bcca991840d1/23f49a3e3334/mens-watches-luxury-fashion-sport-watch-naviforce-brand-men-quartz-analog-digital-clock-male-waterproof-stainless-steel-watches-sbw","quantity":33},{"id":14,"category":"jewelry","name":"Silver Chain Necklace","colour":"none","price":79,"description":"A silver chain necklace for a sophisticated and trendy look.","image":"https://cdn.shopify.com/s/files/1/2417/4137/products/Cable2mmsilver1_540x540_crop_center.jpg","quantity":50},{"id":15,"category":"jewelry","name":"Classic Cufflinks","colour":"none","price":39,"description":"Classic cufflinks for formal occasions and a touch of class.","image":"https://cdn.notonthehighstreet.com/fs/0a/74/6017-704c-4a75-81c5-06f910b7e9c3/original_personalised_cufflinks.jpg","quantity":58},{"id":16,"category":"clothing","name":"Streetwear Baseball Cap","colour":"Black","price":29,"description":"A baseball cap for streetwear enthusiasts.","image":"https://static.thcdn.com/images/large/original//productimg/1600/1600/12713315-6134837588510416.jpg","quantity":70},{"id":17,"category":"clothing","name":"Vintage Graphic T-shirt","colour":"none","price":39,"description":"A vintage-style graphic t-shirt with retro designs.","image":"https://images.asos-media.com/products/reclaimed-vintage-inspired-brun-t-shirt-med-rodeo-logga/202658093-3?$n_640w$&wid=513&fit=constrain","quantity":55},{"id":18,"category":"clothing","name":"Denim Trucker Jacket","colour":"blue, grey","price":109,"description":"A classic denim trucker jacket with a modern twist.","image":"https://thursdayboots.com/cdn/shop/products/1024x1024-Mens-Jackets-Denim-Trucker-WashedIndigo-010423-1.jpg","quantity":44},{"id":19,"category":"clothing","name":"Casual Chino Shorts","colour":"none","price":49,"description":"Casual chino shorts for a relaxed and stylish look.","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-o5tB0hBkIBsSXYv3ehPHxvUx0GZrf7-Dcw&usqp=CAU","quantity":55},{"id":20,"category":"clothing","name":"Sporty Pullover Hoodie","colour":"blue","price":69,"description":"A sporty pullover hoodie with a comfortable fit.","image":"https://img.joomcdn.net/781d20c759be04dd8fa9eccd615497adf9848740_original.jpeg","quantity":40},{"id":21,"category":"perfume","name":"Modern Musk Eau de Parfum","colour":"none","price":79,"description":"A modern musk-scented Eau de Parfum for a contemporary style.","image":"https://img.fruugo.com/product/7/97/944946977_max.jpg","quantity":70},{"id":22,"category":"perfume","name":"Sandalwood & Amber Cologne","colour":"none","price":59,"description":"A cologne with sandalwood and amber notes for an exotic aroma.","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZh1QncnNIuOmUH7EVxNKm_hNKksd0UPboSqUKU2426MFhqL3RcvIieIpDDDvNiDCOZT8&usqp=CAU","quantity":50},{"id":23,"category":"perfume","name":"Fresh Citrus Splash Cologne","colour":"none","price":49,"description":"A refreshing cologne with zesty citrus notes for an energetic vibe.","image":"https://i.ebayimg.com/images/g/KcEAAOSwwpJjGMab/s-l1200.jpg","quantity":59},{"id":24,"category":"perfume","name":"Black Label Eau de Toilette","colour":"none","price":69,"description":"A sophisticated Eau de Toilette with a black label allure.","image":"https://img.ltwebstatic.com/images3_pi/2022/12/01/1669865357c05d43f5fbb1860e4df21bc2a7eb8850_thumbnail_600x.webp","quantity":40},{"id":25,"category":"perfume","name":"Gentleman's Elegance Aftershave","colour":"none","price":39,"description":"An aftershave for gentlemen who appreciate timeless elegance.","image":"https://images-static.nykaa.com/media/catalog/product/6/0/6079b786390902021987_1.jpg","quantity":55},{"id":26,"category":"jewelry","name":"Stainless Steel Cross Necklace","colour":"none","price":59,"description":"A stainless steel cross necklace for a bold and spiritual style.","image":"https://i.etsystatic.com/30088606/r/il/822843/4286166778/il_570xN.4286166778_avmu.jpg","quantity":25},{"id":27,"category":"jewelry","name":"Leather Wrap Bracelet","colour":"none","price":49,"description":"A leather wrap bracelet with intricate detailing.","image":"https://img.joomcdn.net/32df1c053d60946dfc8e6beb42b1236aa73b51a6_original.jpeg","quantity":30},{"id":28,"category":"jewelry","name":"Classic Stainless Steel Ring","colour":"none","price":69,"description":"A classic stainless steel ring with a timeless appeal.","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0VfjNEfiXpNlT_NdKxoeYC8SD-hlXaP4pJQ&usqp=CAU","quantity":33},{"id":29,"category":"jewelry","name":"Carbon Fiber Money Clip","colour":"none","price":29,"description":"A money clip with a modern carbon fiber design for minimalists.","image":"https://www.knivbutik.se/app/uploads/2017/08/6030-Schrade-Money-Clip-Knife.jpg","quantity":45},{"id":30,"category":"jewelry","name":"Dapper Cufflinks Set","colour":"none","price":39,"description":"A set of dapper cufflinks for a touch of sophistication.","image":"https://www.careofcarl.se/bilder/artiklar/zoom/23859910_3.jpg?m=1662986452","quantity":18}]
+[
+  {
+    "id": 1,
+    "category": "clothing",
+    "name": "Urban Camo Cargo Pants",
+    "colour": "black",
+    "price": 69,
+    "description": "Camo cargo pants for an urban streetwear style.",
+    "image": "https://i.pinimg.com/564x/92/1e/93/921e93d7a9cf44af2c94cf79e263f91c.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "category": "clothing",
+    "name": "Leather Biker Jacket",
+    "colour": "black",
+    "price": 149,
+    "description": "A classic leather biker jacket for an edgy look.",
+    "image": "https://static.zara.net/photos///2023/I/0/2/p/5833/412/800/2/w/1920/5833412800_2_1_1.jpg?ts=1691739359088",
+    "quantity": 3
+  },
+  {
+    "id": 3,
+    "category": "clothing",
+    "colour": "blue, grey",
+    "name": "Graphic Print Hoodie",
+    "price": 59,
+    "description": "A hoodie with unique graphic prints and a relaxed fit.",
+    "image": "https://www.shirtstore.se/pub_images/original/30297_gr_18967.jpg",
+    "quantity": 30
+  },
+  {
+    "id": 4,
+    "category": "clothing",
+    "name": "Sneakerhead T-shirt",
+    "colour": "white",
+    "price": 29,
+    "description": "A t-shirt for sneaker enthusiasts with trendy designs.",
+    "image": "https://www.tradeinn.com/f/13852/138523383/puma-kortarmad-t-shirt-sneaker-graphic.jpg",
+    "quantity": 50
+  },
+  {
+    "id": 5,
+    "category": "clothing",
+    "name": "Denim Street Shorts",
+    "colour": "blue",
+    "price": 39,
+    "description": "Shorts with a denim look, perfect for summer.",
+    "image": "https://cdn.yoursclothing.com/Images/ProductImages/Big/KAM_Dark_Blue_Cargo_Denim_Shorts_202683_e4ca.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "category": "perfume",
+    "name": "Urban Explorer Cologne",
+    "colour": "none",
+    "price": 49,
+    "description": "A cologne for the adventurous urban explorer.",
+    "image": "https://www.sniffandwhiff.com/cdn/shop/files/NEWNBUnbrandedVII.webp?v=1691480488&width=500",
+    "quantity": 25
+  },
+  {
+    "id": 7,
+    "category": "perfume",
+    "name": "Mystic Woods Eau de Parfum",
+    "colour": "none",
+    "price": 59,
+    "description": "An Eau de Parfum with a mysterious and alluring scent.",
+    "image": "https://larivierefashion.com/wp-content/uploads/2022/01/ingredients-in-perfume.jpg",
+    "quantity": 35
+  },
+  {
+    "id": 8,
+    "category": "perfume",
+    "name": "Citrus Fresh Aftershave",
+    "colour": "none",
+    "price": 29,
+    "description": "A refreshing aftershave with zesty citrus notes.",
+    "image": "https://img.freepik.com/premium-photo/women-perfume-glass-bottle-advertising-promotional-mockup-product-packaging-rendering-closeup_327903-704841.jpg",
+    "quantity": 30
+  },
+  {
+    "id": 9,
+    "category": "perfume",
+    "name": "Woody Spice Eau de Toilette",
+    "colour": "none",
+    "price": 69,
+    "description": "An Eau de Toilette with a blend of woody and spicy accords.",
+    "image": "https://img.freepik.com/premium-photo/women-perfume-glass-bottle-advertising-promotional-mockup-product-packaging-rendering-closeup_327903-696319.jpg",
+    "quantity": 60
+  },
+  {
+    "id": 10,
+    "category": "perfume",
+    "name": "Fresh Ocean Breeze Cologne",
+    "colour": "none",
+    "price": 39,
+    "description": "A cologne with a revitalizing ocean breeze fragrance.",
+    "image": "https://static.vecteezy.com/system/resources/previews/027/673/772/non_2x/creative-and-brandless-perfume-bottle-and-flower-on-the-wooden-table-closeup-ai-generative-free-photo.jpeg",
+    "quantity": 50
+  },
+  {
+    "id": 11,
+    "category": "jewelry",
+    "name": "Stainless Steel Bracelet",
+    "colour": "none",
+    "price": 49,
+    "description": "A stainless steel bracelet with a modern and masculine design.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhe9_pfvxgFia2g7OcPYwI269ThgO2mSyhjKxMYQsBzuT_saFRQu7_0NLlWYyZ_vUyy8&usqp=CAU",
+    "quantity": 21
+  },
+  {
+    "id": 12,
+    "category": "jewelry",
+    "name": "Black Leather Cuff",
+    "colour": "black",
+    "price": 59,
+    "description": "A black leather cuff with metal accents for a bold look.",
+    "image": "https://www.careofcarl.com/bilder/artiklar/zoom/11630211r_2.jpg?m=1684240600",
+    "quantity": 30
+  },
+  {
+    "id": 13,
+    "category": "jewelry",
+    "name": "Minimalist Steel Watch",
+    "colour": "none",
+    "price": 89,
+    "description": "A minimalist steel watch with a sleek and elegant design.",
+    "image": "https://images.fyndiq.se/images/f_auto/t_600x600/prod/b286bcca991840d1/23f49a3e3334/mens-watches-luxury-fashion-sport-watch-naviforce-brand-men-quartz-analog-digital-clock-male-waterproof-stainless-steel-watches-sbw",
+    "quantity": 33
+  },
+  {
+    "id": 14,
+    "category": "jewelry",
+    "name": "Silver Chain Necklace",
+    "colour": "none",
+    "price": 79,
+    "description": "A silver chain necklace for a sophisticated and trendy look.",
+    "image": "https://cdn.shopify.com/s/files/1/2417/4137/products/Cable2mmsilver1_540x540_crop_center.jpg",
+    "quantity": 50
+  },
+  {
+    "id": 15,
+    "category": "jewelry",
+    "name": "Classic Cufflinks",
+    "colour": "none",
+    "price": 39,
+    "description": "Classic cufflinks for formal occasions and a touch of class.",
+    "image": "https://cdn.notonthehighstreet.com/fs/0a/74/6017-704c-4a75-81c5-06f910b7e9c3/original_personalised_cufflinks.jpg",
+    "quantity": 57
+  },
+  {
+    "id": 16,
+    "category": "clothing",
+    "name": "Streetwear Baseball Cap",
+    "colour": "Black",
+    "price": 29,
+    "description": "A baseball cap for streetwear enthusiasts.",
+    "image": "https://static.thcdn.com/images/large/original//productimg/1600/1600/12713315-6134837588510416.jpg",
+    "quantity": 70
+  },
+  {
+    "id": 17,
+    "category": "clothing",
+    "name": "Vintage Graphic T-shirt",
+    "colour": "none",
+    "price": 39,
+    "description": "A vintage-style graphic t-shirt with retro designs.",
+    "image": "https://images.asos-media.com/products/reclaimed-vintage-inspired-brun-t-shirt-med-rodeo-logga/202658093-3?$n_640w$&wid=513&fit=constrain",
+    "quantity": 55
+  },
+  {
+    "id": 18,
+    "category": "clothing",
+    "name": "Denim Trucker Jacket",
+    "colour": "blue, grey",
+    "price": 109,
+    "description": "A classic denim trucker jacket with a modern twist.",
+    "image": "https://thursdayboots.com/cdn/shop/products/1024x1024-Mens-Jackets-Denim-Trucker-WashedIndigo-010423-1.jpg",
+    "quantity": 44
+  },
+  {
+    "id": 19,
+    "category": "clothing",
+    "name": "Casual Chino Shorts",
+    "colour": "none",
+    "price": 49,
+    "description": "Casual chino shorts for a relaxed and stylish look.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-o5tB0hBkIBsSXYv3ehPHxvUx0GZrf7-Dcw&usqp=CAU",
+    "quantity": 55
+  },
+  {
+    "id": 20,
+    "category": "clothing",
+    "name": "Sporty Pullover Hoodie",
+    "colour": "blue",
+    "price": 69,
+    "description": "A sporty pullover hoodie with a comfortable fit.",
+    "image": "https://img.joomcdn.net/781d20c759be04dd8fa9eccd615497adf9848740_original.jpeg",
+    "quantity": 40
+  },
+  {
+    "id": 21,
+    "category": "perfume",
+    "name": "Modern Musk Eau de Parfum",
+    "colour": "none",
+    "price": 79,
+    "description": "A modern musk-scented Eau de Parfum for a contemporary style.",
+    "image": "https://img.fruugo.com/product/7/97/944946977_max.jpg",
+    "quantity": 70
+  },
+  {
+    "id": 22,
+    "category": "perfume",
+    "name": "Sandalwood & Amber Cologne",
+    "colour": "none",
+    "price": 59,
+    "description": "A cologne with sandalwood and amber notes for an exotic aroma.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZh1QncnNIuOmUH7EVxNKm_hNKksd0UPboSqUKU2426MFhqL3RcvIieIpDDDvNiDCOZT8&usqp=CAU",
+    "quantity": 50
+  },
+  {
+    "id": 23,
+    "category": "perfume",
+    "name": "Fresh Citrus Splash Cologne",
+    "colour": "none",
+    "price": 49,
+    "description": "A refreshing cologne with zesty citrus notes for an energetic vibe.",
+    "image": "https://i.ebayimg.com/images/g/KcEAAOSwwpJjGMab/s-l1200.jpg",
+    "quantity": 59
+  },
+  {
+    "id": 24,
+    "category": "perfume",
+    "name": "Black Label Eau de Toilette",
+    "colour": "none",
+    "price": 69,
+    "description": "A sophisticated Eau de Toilette with a black label allure.",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/12/01/1669865357c05d43f5fbb1860e4df21bc2a7eb8850_thumbnail_600x.webp",
+    "quantity": 40
+  },
+  {
+    "id": 25,
+    "category": "perfume",
+    "name": "Gentleman's Elegance Aftershave",
+    "colour": "none",
+    "price": 39,
+    "description": "An aftershave for gentlemen who appreciate timeless elegance.",
+    "image": "https://images-static.nykaa.com/media/catalog/product/6/0/6079b786390902021987_1.jpg",
+    "quantity": 55
+  },
+  {
+    "id": 26,
+    "category": "jewelry",
+    "name": "Stainless Steel Cross Necklace",
+    "colour": "none",
+    "price": 59,
+    "description": "A stainless steel cross necklace for a bold and spiritual style.",
+    "image": "https://i.etsystatic.com/30088606/r/il/822843/4286166778/il_570xN.4286166778_avmu.jpg",
+    "quantity": 25
+  },
+  {
+    "id": 27,
+    "category": "jewelry",
+    "name": "Leather Wrap Bracelet",
+    "colour": "none",
+    "price": 49,
+    "description": "A leather wrap bracelet with intricate detailing.",
+    "image": "https://img.joomcdn.net/32df1c053d60946dfc8e6beb42b1236aa73b51a6_original.jpeg",
+    "quantity": 30
+  },
+  {
+    "id": 28,
+    "category": "jewelry",
+    "name": "Classic Stainless Steel Ring",
+    "colour": "none",
+    "price": 69,
+    "description": "A classic stainless steel ring with a timeless appeal.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0VfjNEfiXpNlT_NdKxoeYC8SD-hlXaP4pJQ&usqp=CAU",
+    "quantity": 29
+  },
+  {
+    "id": 29,
+    "category": "jewelry",
+    "name": "Carbon Fiber Money Clip",
+    "colour": "none",
+    "price": 29,
+    "description": "A money clip with a modern carbon fiber design for minimalists.",
+    "image": "https://www.knivbutik.se/app/uploads/2017/08/6030-Schrade-Money-Clip-Knife.jpg",
+    "quantity": 45
+  },
+  {
+    "id": 30,
+    "category": "jewelry",
+    "name": "Dapper Cufflinks Set",
+    "colour": "none",
+    "price": 39,
+    "description": "A set of dapper cufflinks for a touch of sophistication.",
+    "image": "https://www.careofcarl.se/bilder/artiklar/zoom/23859910_3.jpg?m=1662986452",
+    "quantity": 18
+  }
+]

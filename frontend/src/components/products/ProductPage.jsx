@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { patchProd } from "../Crud";
 
 export function ProductPage({
   id,
@@ -10,9 +11,11 @@ export function ProductPage({
   setBasketProducts,
 }) {
   const [productQuantity, setProductQuantity] = useState(1);
+  const [outOfStock, setOutOfStock] = useState(false);
+  const [availableQuantity, setAvailableQuantity] = useState(quantity);
 
   function handleChange(e) {
-    const newQuantity = e.target.value;
+    const newQuantity = parseInt(e.target.value);
 
     if (newQuantity >= 0 && newQuantity <= quantity) {
       setProductQuantity(newQuantity);
@@ -21,6 +24,24 @@ export function ProductPage({
 
   function handleSubmit(e) {
     e.preventDefault();
+
+    console.log(typeof productQuantity);
+
+    if (productQuantity === 0) {
+      // Do nothing when quantity is 0
+      return;
+    } else if (productQuantity > availableQuantity) {
+      document.getElementById(
+        `warning-${id}`
+      ).innerText = `${availableQuantity} REMAINING, TRY AGAIN.`;
+      return;
+    }
+    if (availableQuantity - productQuantity <= 0) {
+      setAvailableQuantity(0);
+      setOutOfStock(true);
+    } else {
+      setAvailableQuantity(availableQuantity - productQuantity);
+    }
 
     const tempProduct = {
       image,
@@ -59,8 +80,8 @@ export function ProductPage({
             <h5 className="card-title">{name}</h5>
             <p className="card-text">{description}</p>
           </div>
-          <div>
-            {quantity > 0 && (
+          <div id="form-stock-div">
+            {quantity > 0 && outOfStock == false && (
               <form className="basket-form" onSubmit={handleSubmit}>
                 <div className="price-qty-holder">
                   <p>{price}SEK</p>
@@ -74,17 +95,18 @@ export function ProductPage({
                     />
                   </div>
                 </div>
-                {quantity <= 5 ? (
-                  <p className="qty-warning">ONLY {quantity} LEFT IN STOCK</p>
-                ) : (
-                  <p className="qty-success">ONLY {quantity} LEFT IN STOCK</p>
+                {availableQuantity <= 20 && (
+                  <p id={`warning-${id}`} className="qty-warning">
+                    ONLY {availableQuantity} LEFT IN STOCK
+                  </p>
                 )}
-                <button type="submit" className="btn btn-primary">
+                <button type="submit" id="buy-btn" className="btn btn-primary">
                   ADD TO BASKET
                 </button>
               </form>
             )}
-            {quantity === 0 && <p className="out-of-stock">OUT OF STOCK</p>}
+            {quantity == 0 && <p className="out-of-stock">OUT OF STOCK</p>}
+            {outOfStock && <p className="out-of-stock">OUT OF STOCK</p>}
           </div>
         </div>
       </div>

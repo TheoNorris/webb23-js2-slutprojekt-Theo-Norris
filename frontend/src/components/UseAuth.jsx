@@ -11,10 +11,10 @@ export async function useAuth(customerEmail, customerPassword) {
         customer.password === customerPassword
       );
     });
-    return matchingCustomer; 
+    return matchingCustomer;
   } catch (error) {
     console.error("Error fetching customer data:", error);
-    throw error; 
+    throw error;
   }
 }
 
@@ -24,7 +24,7 @@ export function customerLogginIn() {
 
 async function getCustomerInfo() {
   const apiUrl =
-    "https://gassed-customers-default-rtdb.europe-west1.firebasedatabase.app/customer.json";
+    "https://gassed-api-practice-default-rtdb.europe-west1.firebasedatabase.app/customer.json";
 
   const res = await fetch(apiUrl);
 
